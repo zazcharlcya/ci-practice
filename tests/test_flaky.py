@@ -1,7 +1,5 @@
 import random
 
-import pytest
-
 
 def test_unstable_response_time():
     # имитация нестабильного теста: падает примерно в одном запуске из трёх
